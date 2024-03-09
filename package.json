@@ -1,0 +1,19 @@
+{
+  "name": "study-myskill",
+  "version": "1.0.0",
+  "description": "belajar javascript dasar myskill",
+  "main": "Intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imqoyyuma/study-myskill.git"
+  },
+  "author": "imqoyyuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imqoyyuma/study-myskill/issues"
+  },
+  "homepage": "https://github.com/imqoyyuma/study-myskill#readme"
+}
