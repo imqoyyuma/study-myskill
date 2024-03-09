@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/imqoyyuma/study-myskill/issues"
   },
-  "homepage": "https://github.com/imqoyyuma/study-myskill#readme"
+  "homepage": "https://github.com/imqoyyuma/study-myskill#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
